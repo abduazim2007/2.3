@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.father-cont{
+    width: 1250px;
+    margin: auto;
+}
+.home-page-div{
+    margin-top: 45px;
+}
+.home-page{
+    display: flex;
+    list-style: none;
+    margin-left: 900px;
+    margin-top: -20px;
+    font-family: 'Barlow';
+}
+.page{
+    margin-left: 30px;
+}
+.img-cont-div{
+    background-image: url(img/img-2.png);
+    width: 1000;
+    height: 700px;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+}
+.img-name{
+    font-family: 'Fraunces';
+    color: white;
+    font-size: 72px;
+    padding-left: 85px;
+    padding-top: 120px;
+}
+.img-lorem{
+    font-family: 'Barlow';
+    color: white;
+    font-size: 16px;
+    padding-left: 85px;
+    padding-top: 30px;
+}
+.next-big-cont{
+    width: 1250px;
+    height: 600px;
+    background-color: #2C343E;
+    border-radius: 10px;
+}
+.cont-2{
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.img-01{
+    margin-top: 20px;
+}
+.img-02{
+    margin-top: 20px;
+}
+.img-03{
+    margin-top: 20px;
+}
+.cont-name-3{
+    font-family: 'Fraunces';
+    font-size: 32px;
+    color: white;
+    margin-top: 30px;
+}
+.cont-lorem-3{
+    font-family: 'Barlow';
+    color: white;
+    margin-top: 40px;
+}
+.next-cont-3{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.namber-1{
+    margin-top: 30px;
+    font-size: 28px;
+    color: #83888F;
+    font-family: 'Fraunces';
+}
+.namber-2{
+    margin-top: 30px;
+    font-size: 28px;
+    color: #83888F;
+    font-family: 'Fraunces';
+}
+.namber-3{
+    margin-top: 30px;
+    color: #83888F;
+    font-size: 28px;
+    font-family: 'Fraunces';
+}
+.namber-4{
+    margin-top: 30px;
+    color: #83888F;
+    font-size: 28px;
+    font-family: 'Fraunces';
+}
+.namber-5{
+    margin-top: 30px;
+    font-size: 28px;
+    color: #333D4B;
+    font-family: 'Fraunces';
+}
+.first{
+    color: #0E8784;
+}
+.fifth{
+    color: #83888F;
+}
+.cont-name{
+    font-size: 40px;
+    color: #83888F;
+    font-family: 'Fraunces';
+    margin-left: 500px;
+    margin-top: -370px;
+}   
+.container-2{
+    width: 228px;
+    height: 250px;
+    display: inline-block;
+    background: #F4F1EB;
+    border-radius: 8px;
+    margin-left: 500px;
+    margin-top: 55px;
+}
+.container-1{
+    width: 228px;
+    height: 250px;
+    display: inline-block;
+    background: #0E8784;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.container-3{
+    width: 228px;
+    height: 250px;
+    display: inline-block;
+    background: #F4F1EB;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.cont-text{
+    font-family: 'Fraunces';
+    padding-left: 28px;
+    padding-top: 30px;
+}
+.cont-lorem{
+    font-family: 'Barlow';
+    padding-left: 28px;
+    padding-top: 24px;
+}
+.cont-name-4{
+    font-size: 40px;
+    color: #83888F;
+    font-family: 'Fraunces';
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.cont-text-4{
+    font-family: 'Fraunces';
+    padding-left: 28px;
+    padding-top: 30px;
+}
+.cont-lorem-4{
+    font-family: 'Barlow';
+    padding-left: 28px;
+    padding-top: 24px;
+}
+.cont-name-5{
+    font-size: 40px;
+    color: #83888F;
+    font-family: 'Fraunces';
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.cont-text-5{
+    font-family: 'Fraunces';
+    padding-left: 28px;
+    padding-top: 30px;
+}
+.cont-lorem-5{
+    font-family: 'Barlow';
+    padding-left: 28px;
+    padding-top: 24px;
+}
+.container-4{
+    width: 228px;
+    height: 250px;
+    display: inline-block;
+    background: #0E8784;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 500px;
+}
+.container-6{
+    width: 228px;
+    height: 250px;
+    display: inline-block;
+    background: #F4F1EB;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.cont-name-6{
+    font-size: 40px;
+    color: #83888F;
+    font-family: 'Fraunces';
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.cont-text-6{
+    font-family: 'Fraunces';
+    padding-left: 28px;
+    padding-top: 30px;
+}
+.cont-lorem-6{
+    font-family: 'Barlow';
+    padding-left: 28px;
+    padding-top: 24px;
+}
+.container-7{
+    width: 228px;
+    height: 250px;
+    display: inline-block;
+    background: #0E8784;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.container-8{
+    width: 228px;
+    height: 250px;
+    display: inline-block;
+    background: #F4F1EB;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.cont-name-7{
+    font-size: 40px;
+    color: #83888F;
+    font-family: 'Fraunces';
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.cont-text-7{
+    font-family: 'Fraunces';
+    padding-left: 28px;
+    padding-top: 30px;
+}
+.cont-lorem-7{
+    font-family: 'Barlow';
+    padding-left: 28px;
+    padding-top: 24px;
+}
+.next-cont-9{
+    width: 730px;
+    height: 200px;
+    background: #2C343E;
+    margin-top: 80px;
+    margin-left: 500px;
+}
+.cont-text-8{
+    font-family: 'Barlow';
+    color: white;
+    font-size: 16px;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.cont-text-9{
+    color: white;
+    font-size: 24px;
+    font-family: 'Fraunces';
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.child{
+    color: #0E8784;
+}
+.buttom{
+    width: 215px;
+    height: 56px;
+    background: #0E8784;
+    border-radius: 6px;
+    text-align: center;
+    color: #FEFCF7;
+    margin-top: 50px;
+    margin-left: 1015px;
+}
+.last-cont{
+    width: 1250px;
+    height: 120px;
+    background: #2C343E;
+    margin-top: 200px;
+}
+.img-coffee-3{
+    width: 230px;
+    height: 25px;
+    margin-left: 85px;
+    margin-top: 47px;
+}
+.last-home-page{
+    display: flex;
+    list-style: none;
+    margin-left: 450px;
+}
+.last-page{
+    margin-left: 30px;
+    margin-top: -22px;
+    color: white;
+    font-family: 'Barlow';
+}
+.img-face{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -22px;
+}
+.img-twit{
+    position: absolute;
+    margin-top: -22px;
+    margin-left: 1050px;
+}
+.img-insta{
+    position: absolute;
+    margin-top: -22px;
+    margin-left: 1100px;
+}
